@@ -1,12 +1,17 @@
-# Task List
+# Internship Frontend
 
-Responsive React task list with mock data (Day 3).
+React + Vite frontend for the Sketchverse Task Management application.
 
-## Features
-- Task cards with status dropdown
-- Search and status filter
-- Responsive layout (1 column on mobile, 2 on desktop)
+## Run locally
 
-## Run
-    npm install
-    npm run dev
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
